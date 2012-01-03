@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="wavebank">Wave Bank
+{
+    Name = wavebank;
+    Xbox File = Xbox\wavebank.xwb;
+    Windows File = Win\wavebank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = Standard;
+    Bank Last Revised Low = 4214762656;
+    Bank Last Revised High = 29973714;
+
+    Wave
+    {
+        Name = intro_music;
+        File = waves\bgmusic\intro_music.wav;
+        Build Settings Last Modified Low = 2263132112;
+        Build Settings Last Modified High = 29969286;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8467200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1940815034;
+            Last Modified High = 29969271;
+        }
+    }
+
+    Wave
+    {
+        Name = bg_music_1;
+        File = waves\bgmusic\bg_music_1.wav;
+        Build Settings Last Modified Low = 730332928;
+        Build Settings Last Modified High = 29969290;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 62804540;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2545853824;
+            Last Modified High = 29963156;
+        }
+    }
+
+    Wave
+    {
+        Name = bg_music_2;
+        File = waves\bgmusic\bg_music_2.wav;
+        Build Settings Last Modified Low = 731382928;
+        Build Settings Last Modified High = 29969290;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 23206684;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3251633824;
+            Last Modified High = 29963156;
+        }
+    }
+
+    Wave
+    {
+        Name = bg_music_3;
+        File = waves\bgmusic\bg_music_3.wav;
+        Build Settings Last Modified Low = 732152928;
+        Build Settings Last Modified High = 29969290;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 31416472;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1289835328;
+            Last Modified High = 29969265;
+        }
+    }
+
+    Wave
+    {
+        Name = bg_music_4;
+        File = waves\bgmusic\bg_music_4.wav;
+        Build Settings Last Modified Low = 732172928;
+        Build Settings Last Modified High = 29969290;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 25424520;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2898525328;
+            Last Modified High = 29969265;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_logo;
+        File = waves\sfx\fx_logo.wav;
+        Build Settings Last Modified Low = 1132182928;
+        Build Settings Last Modified High = 29969290;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 905216;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1760578032;
+            Last Modified High = 29969266;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_click;
+        File = waves\sfx\fx_click.wav;
+        Build Settings Last Modified Low = 551484385;
+        Build Settings Last Modified High = 29969687;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 26168;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1345161681;
+            Last Modified High = 29969686;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_correct_letter;
+        File = waves\sfx\fx_correct_letter.wav;
+        Build Settings Last Modified Low = 552344385;
+        Build Settings Last Modified High = 29969687;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 506528;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3987586273;
+            Last Modified High = 29969684;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_menuselect;
+        File = waves\sfx\fx_menuselect.wav;
+        Build Settings Last Modified Low = 553144385;
+        Build Settings Last Modified High = 29969687;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 148080;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4210348977;
+            Last Modified High = 29969685;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_newgoldenball;
+        File = waves\sfx\fx_newgoldenball.wav;
+        Build Settings Last Modified Low = 553154385;
+        Build Settings Last Modified High = 29969687;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 140416;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 484888977;
+            Last Modified High = 29969685;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_wrong_letter;
+        File = waves\sfx\fx_wrong_letter.wav;
+        Build Settings Last Modified Low = 553164385;
+        Build Settings Last Modified High = 29969687;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 94720;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 843296273;
+            Last Modified High = 29969684;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_perfectround;
+        File = waves\sfx\fx_perfectround.wav;
+        Build Settings Last Modified Low = 3546680609;
+        Build Settings Last Modified High = 29969693;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 910;
+            Play Region Length = 944736;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1201827905;
+            Last Modified High = 29969692;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_bomb_alert;
+        File = waves\sfx\fx_bomb_alert.wav;
+        Build Settings Last Modified Low = 4044737488;
+        Build Settings Last Modified High = 29971397;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 148224;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 562034288;
+            Last Modified High = 29971222;
+        }
+    }
+
+    Wave
+    {
+        Name = fx_explosion;
+        File = waves\sfx\fx_explosion.wav;
+        Build Settings Last Modified Low = 4044757488;
+        Build Settings Last Modified High = 29971397;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 321176;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 15899046;
+            Last Modified High = 29971293;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_all_the_answers;
+        File = waves\sfx\vfx_all_the_answers.wav;
+        Build Settings Last Modified Low = 3930292656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 351644;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 970777248;
+            Last Modified High = 29973712;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_dont_know_how_to_play;
+        File = waves\sfx\vfx_dont_know_how_to_play.wav;
+        Build Settings Last Modified Low = 3930302656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 285852;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 234984544;
+            Last Modified High = 29973711;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_got_one_right;
+        File = waves\sfx\vfx_got_one_right.wav;
+        Build Settings Last Modified Low = 3930312656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 357720;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 216677248;
+            Last Modified High = 29973712;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_huh;
+        File = waves\sfx\vfx_huh.wav;
+        Build Settings Last Modified Low = 3930332656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 108812;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2237821840;
+            Last Modified High = 29973710;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_lucky_guess;
+        File = waves\sfx\vfx_lucky_guess.wav;
+        Build Settings Last Modified Low = 3930342656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 225360;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1663907248;
+            Last Modified High = 29973712;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_on_a_roll;
+        File = waves\sfx\vfx_on_a_roll.wav;
+        Build Settings Last Modified Low = 3930352656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 298824;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3100954544;
+            Last Modified High = 29973711;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_so_what;
+        File = waves\sfx\vfx_so_what.wav;
+        Build Settings Last Modified Low = 3930362656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 191484;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3751344544;
+            Last Modified High = 29973711;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_such_a_nerd;
+        File = waves\sfx\vfx_such_a_nerd.wav;
+        Build Settings Last Modified Low = 3930372656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 190112;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2345767248;
+            Last Modified High = 29973712;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_um_wrong;
+        File = waves\sfx\vfx_um_wrong.wav;
+        Build Settings Last Modified Low = 3930392656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 262760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 590431840;
+            Last Modified High = 29973710;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_use_your_brain;
+        File = waves\sfx\vfx_use_your_brain.wav;
+        Build Settings Last Modified Low = 3930402656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 266384;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3367831840;
+            Last Modified High = 29973710;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_you_are_not_very_good;
+        File = waves\sfx\vfx_you_are_not_very_good.wav;
+        Build Settings Last Modified Low = 3930422656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 303468;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1425311840;
+            Last Modified High = 29973710;
+        }
+    }
+
+    Wave
+    {
+        Name = vfx_you_suck;
+        File = waves\sfx\vfx_you_suck.wav;
+        Build Settings Last Modified Low = 3930432656;
+        Build Settings Last Modified High = 29973714;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 157256;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3227839136;
+            Last Modified High = 29973709;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,2 @@
+C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\Content\obj\Xbox 360\Debug\Audio\gwsound.xml

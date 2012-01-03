@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<CharScriptData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <theScript>
+    <TheScript>
+      <Line1>You Suck.</Line1>
+      <Line2 />
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+    <TheScript>
+      <Line1>Umm.. Wrong!</Line1>
+      <Line2 />
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+    <TheScript>
+      <Line1>You are not very</Line1>
+      <Line2>good at this.</Line2>
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+    <TheScript>
+      <Line1>Huh?!</Line1>
+      <Line2 />
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+    <TheScript>
+      <Line1>Come on. Use your</Line1>
+      <Line2>brain!</Line2>
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+    <TheScript>
+      <Line1>You do know how to</Line1>
+      <Line2>play do you!</Line2>
+      <SFX />
+      <SayingType>2</SayingType>
+    </TheScript>
+  </theScript>
+  <Count>6</Count>
+</CharScriptData>

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://svn.codespaces.com/labskhova/breakthebank/GuessWurdz/GuessWurdz/bin/x86/Debug/Data
+https://svn.codespaces.com/labskhova/breakthebank
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9a77365a-3870-4a6d-b106-f057bb2a18d2
+
+LoadPhrases.xml
+file
+
+
+
+add
+
+GuessWrongData.xml
+file
+
+
+
+add
+
+GuessRightData.xml
+file
+
+
+
+add
+
+HighScores.xml
+file
+
+
+
+add
+

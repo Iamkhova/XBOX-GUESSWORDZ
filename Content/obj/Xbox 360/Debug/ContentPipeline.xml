@@ -1,0 +1,1049 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>onscreenkeyboard\800\800_keyboard_1.png</Source>
+      <Name>onscreenkeyboard\800\800_keyboard_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\800\800_keyboard_1.xnb</Output>
+      <Time>2008-10-11T23:02:31.228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\800\800_keyboard_2.png</Source>
+      <Name>onscreenkeyboard\800\800_keyboard_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\800\800_keyboard_2.xnb</Output>
+      <Time>2008-10-11T23:02:31.256-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\800\800_keyboard_3.png</Source>
+      <Name>onscreenkeyboard\800\800_keyboard_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\800\800_keyboard_3.xnb</Output>
+      <Time>2008-10-11T23:02:31.292-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_1.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1280\1280_keyboard_1.xnb</Output>
+      <Time>2008-10-11T23:04:09.116-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_2.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1280\1280_keyboard_2.xnb</Output>
+      <Time>2008-10-11T23:04:09.132-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_3.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1280\1280_keyboard_3.xnb</Output>
+      <Time>2008-10-11T23:04:09.166-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1024\1024_keyboard_1.png</Source>
+      <Name>onscreenkeyboard\1024\1024_keyboard_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1024\1024_keyboard_1.xnb</Output>
+      <Time>2008-10-11T23:04:27.31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1024\1024_keyboard_2.png</Source>
+      <Name>onscreenkeyboard\1024\1024_keyboard_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1024\1024_keyboard_2.xnb</Output>
+      <Time>2008-10-11T23:04:27.351-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1024\1024_keyboard_3.png</Source>
+      <Name>onscreenkeyboard\1024\1024_keyboard_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\1024\1024_keyboard_3.xnb</Output>
+      <Time>2008-10-11T23:04:27.392-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Courier30pt.png</Source>
+      <Name>onscreenkeyboard\Courier30pt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\Courier30pt.xnb</Output>
+      <Time>2008-10-11T23:04:41.321-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player1.png</Source>
+      <Name>onscreenkeyboard\player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\player1.xnb</Output>
+      <Time>2008-10-11T23:04:41.34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player2.png</Source>
+      <Name>onscreenkeyboard\player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\player2.xnb</Output>
+      <Time>2008-10-11T23:04:41.351-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player3.png</Source>
+      <Name>onscreenkeyboard\player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\player3.xnb</Output>
+      <Time>2008-10-11T23:04:41.368-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player4.png</Source>
+      <Name>onscreenkeyboard\player4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\player4.xnb</Output>
+      <Time>2008-10-11T23:04:41.391-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Selector_Long.png</Source>
+      <Name>onscreenkeyboard\Selector_Long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\Selector_Long.xnb</Output>
+      <Time>2008-10-11T23:04:41.406-04:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Selector_Small.png</Source>
+      <Name>onscreenkeyboard\Selector_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\onscreenkeyboard\Selector_Small.xnb</Output>
+      <Time>2008-10-11T23:04:41.419-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2008-10-12T09:07:19.905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gradient.png</Source>
+      <Name>Textures\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\gradient.xnb</Output>
+      <Time>2008-10-12T09:07:19.913-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\alphablock.png</Source>
+      <Name>Textures\alphablock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\alphablock.xnb</Output>
+      <Time>2008-10-12T18:26:43.144-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\letterblock_active.png</Source>
+      <Name>Textures\letterblock_active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\letterblock_active.xnb</Output>
+      <Time>2008-12-08T18:00:00.161-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\letterblock_normal.png</Source>
+      <Name>Textures\letterblock_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\letterblock_normal.xnb</Output>
+      <Time>2008-10-13T14:12:10.745-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameblocks.png</Source>
+      <Name>Textures\gameblocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\gameblocks.xnb</Output>
+      <Time>2008-10-15T19:19:41.319-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\game_letter_blocks.png</Source>
+      <Name>Textures\game_letter_blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\game_letter_blocks.xnb</Output>
+      <Time>2008-11-02T15:23:33.4541536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg1.png</Source>
+      <Name>Backgrounds\Game\bg1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg1.xnb</Output>
+      <Time>2008-10-20T19:54:45.888-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg2.png</Source>
+      <Name>Backgrounds\Game\bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg2.xnb</Output>
+      <Time>2008-10-20T19:54:46.563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg3.png</Source>
+      <Name>Backgrounds\Game\bg3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg3.xnb</Output>
+      <Time>2008-10-20T20:46:23.359-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\score_board.png</Source>
+      <Name>Textures\score_board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\score_board.xnb</Output>
+      <Time>2008-10-30T19:37:11.386-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\title_board.png</Source>
+      <Name>Textures\title_board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\title_board.xnb</Output>
+      <Time>2008-10-30T19:37:11.391-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\guess_wurdz-title.png</Source>
+      <Name>Textures\guess_wurdz-title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\guess_wurdz-title.xnb</Output>
+      <Time>2008-11-01T12:49:49.318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\title_background.png</Source>
+      <Name>Backgrounds\title_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\title_background.xnb</Output>
+      <Time>2008-11-01T13:19:53.513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a_start_guessing.png</Source>
+      <Name>Textures\a_start_guessing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a_start_guessing.xnb</Output>
+      <Time>2008-11-01T13:56:05.165-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\exit_guesswurdz.png</Source>
+      <Name>Textures\exit_guesswurdz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\exit_guesswurdz.xnb</Output>
+      <Time>2008-11-01T14:48:55.235-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\high_scores.png</Source>
+      <Name>Textures\high_scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\high_scores.xnb</Output>
+      <Time>2008-11-01T14:49:00.272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\how_to_play.png</Source>
+      <Name>Textures\how_to_play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\how_to_play.xnb</Output>
+      <Time>2008-11-01T14:49:00.277-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\view_credits.png</Source>
+      <Name>Textures\view_credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\view_credits.xnb</Output>
+      <Time>2008-11-01T14:49:00.293-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a_exit_guesswurdz.png</Source>
+      <Name>Textures\a_exit_guesswurdz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a_exit_guesswurdz.xnb</Output>
+      <Time>2008-11-01T15:18:17.6-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a_high_scores.png</Source>
+      <Name>Textures\a_high_scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a_high_scores.xnb</Output>
+      <Time>2008-11-01T15:18:17.634-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a_how_to_play.png</Source>
+      <Name>Textures\a_how_to_play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a_how_to_play.xnb</Output>
+      <Time>2008-11-01T15:18:17.636-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a_view_credits.png</Source>
+      <Name>Textures\a_view_credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a_view_credits.xnb</Output>
+      <Time>2008-11-01T15:18:17.653-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\start_guessing.png</Source>
+      <Name>Textures\start_guessing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\start_guessing.xnb</Output>
+      <Time>2008-11-01T15:19:56.351-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\score.png</Source>
+      <Name>Textures\score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\score.xnb</Output>
+      <Time>2008-11-01T17:23:36.478-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chances.png</Source>
+      <Name>Textures\chances</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\chances.xnb</Output>
+      <Time>2008-11-02T09:49:42.071-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\round.png</Source>
+      <Name>Textures\round</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\round.xnb</Output>
+      <Time>2008-11-02T09:49:42.074-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\number09.png</Source>
+      <Name>Textures\number09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\number09.xnb</Output>
+      <Time>2008-11-02T10:38:25.57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\letterblock_inactive.png</Source>
+      <Name>Textures\letterblock_inactive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\letterblock_inactive.xnb</Output>
+      <Time>2008-11-02T15:51:50.8931536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\roundwon.png</Source>
+      <Name>Textures\roundwon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\roundwon.xnb</Output>
+      <Time>2008-11-02T18:03:14.8881536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\titleboard.png</Source>
+      <Name>Textures\titleboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\titleboard.xnb</Output>
+      <Time>2008-11-03T19:56:23.9031536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\highscore_bg.png</Source>
+      <Name>Backgrounds\highscore_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\highscore_bg.xnb</Output>
+      <Time>2008-11-07T22:14:25.637-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\highscores.png</Source>
+      <Name>Textures\highscores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\highscores.xnb</Output>
+      <Time>2008-11-07T22:15:33.616-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\newhighscore.png</Source>
+      <Name>Textures\newhighscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\newhighscore.xnb</Output>
+      <Time>2008-11-07T22:15:33.636-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\trophy.png</Source>
+      <Name>Textures\trophy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\trophy.xnb</Output>
+      <Time>2008-11-07T22:15:33.661-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2008-11-08T19:59:22.5626353-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\a-continue.png</Source>
+      <Name>Textures\a-continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\a-continue.xnb</Output>
+      <Time>2008-11-14T20:15:40.4665544-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bomb_piece.png</Source>
+      <Name>Textures\bomb_piece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\bomb_piece.xnb</Output>
+      <Time>2008-11-12T19:23:50.816-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\splashscreen.png</Source>
+      <Name>Backgrounds\splashscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\splashscreen.xnb</Output>
+      <Time>2008-11-15T11:57:18.0216931-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\golden_ball.png</Source>
+      <Name>Textures\golden_ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\golden_ball.xnb</Output>
+      <Time>2008-11-12T20:37:49.206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\b-returnmenu.png</Source>
+      <Name>Textures\b-returnmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\b-returnmenu.xnb</Output>
+      <Time>2008-11-14T20:32:53.1768151-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\loading.png</Source>
+      <Name>Textures\loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\loading.xnb</Output>
+      <Time>2008-11-14T20:52:41.134599-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\howtoplay.png</Source>
+      <Name>Backgrounds\howtoplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\howtoplay.xnb</Output>
+      <Time>2008-11-14T22:12:08.8223201-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\pause_screen.png</Source>
+      <Name>Backgrounds\pause_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\pause_screen.xnb</Output>
+      <Time>2008-11-15T11:25:37.8236923-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\think_block.png</Source>
+      <Name>Textures\think_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\think_block.xnb</Output>
+      <Time>2008-11-15T13:19:52.1880602-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gradient2.png</Source>
+      <Name>Textures\gradient2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\gradient2.xnb</Output>
+      <Time>2008-11-22T21:28:44.9040737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\play_trial.png</Source>
+      <Name>Textures\play_trial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\play_trial.xnb</Output>
+      <Time>2008-11-29T12:02:55.607-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\play_trial2.png</Source>
+      <Name>Textures\play_trial2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\play_trial2.xnb</Output>
+      <Time>2008-11-29T12:02:55.609-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\texitgame.png</Source>
+      <Name>Textures\texitgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\texitgame.xnb</Output>
+      <Time>2008-11-29T12:02:55.869-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\texitgame2.png</Source>
+      <Name>Textures\texitgame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\texitgame2.xnb</Output>
+      <Time>2008-11-29T12:02:55.944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\thowtoplay.png</Source>
+      <Name>Textures\thowtoplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\thowtoplay.xnb</Output>
+      <Time>2008-11-29T12:02:55.946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\thowtoplay2.png</Source>
+      <Name>Textures\thowtoplay2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\thowtoplay2.xnb</Output>
+      <Time>2008-11-29T12:02:55.948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tpurchasegame.png</Source>
+      <Name>Textures\tpurchasegame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\tpurchasegame.xnb</Output>
+      <Time>2008-11-29T12:02:55.95-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tpurchasegame2.png</Source>
+      <Name>Textures\tpurchasegame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\tpurchasegame2.xnb</Output>
+      <Time>2008-11-29T12:02:55.952-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\trial_mode.png</Source>
+      <Name>Textures\trial_mode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\trial_mode.xnb</Output>
+      <Time>2008-12-01T10:04:18.991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\full_verison.png</Source>
+      <Name>Textures\full_verison</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\full_verison.xnb</Output>
+      <Time>2008-12-01T16:02:06.516-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg4.png</Source>
+      <Name>Backgrounds\Game\bg4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg4.xnb</Output>
+      <Time>2008-12-10T16:34:09.9408977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg5.png</Source>
+      <Name>Backgrounds\Game\bg5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg5.xnb</Output>
+      <Time>2008-12-10T16:40:09.7818977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg6.png</Source>
+      <Name>Backgrounds\Game\bg6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg6.xnb</Output>
+      <Time>2008-12-10T16:40:32.5378977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg7.png</Source>
+      <Name>Backgrounds\Game\bg7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg7.xnb</Output>
+      <Time>2008-12-10T16:40:50.7278977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg8.png</Source>
+      <Name>Backgrounds\Game\bg8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg8.xnb</Output>
+      <Time>2008-12-10T16:41:08.7758977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Game\bg9.png</Source>
+      <Name>Backgrounds\Game\bg9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Backgrounds\Game\bg9.xnb</Output>
+      <Time>2008-12-10T16:41:25.1718977-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2008-10-12T09:07:19.91-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2008-10-12T09:07:19.915-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\scorefont.spritefont</Source>
+      <Name>Fonts\scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\scorefont.xnb</Output>
+      <Time>2008-11-02T17:13:38.9321536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\snap_itc.spritefont</Source>
+      <Name>Fonts\snap_itc</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\snap_itc.xnb</Output>
+      <Time>2008-11-03T20:56:29.0151536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\highscore.spritefont</Source>
+      <Name>Fonts\highscore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\highscore.xnb</Output>
+      <Time>2008-11-08T17:38:05.0762353-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont_small.spritefont</Source>
+      <Name>Fonts\gamefont_small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\gamefont_small.xnb</Output>
+      <Time>2008-11-15T12:25:30.429917-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\thinkblockfont.spritefont</Source>
+      <Name>Fonts\thinkblockfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Fonts\thinkblockfont.xnb</Output>
+      <Time>2008-11-15T14:06:14.5079199-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_logo.wav</Source>
+      <Name>Audio\waves\sfx\fx_logo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_logo.xnb</Output>
+      <Time>2008-11-20T19:45:11.5702768-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\bgmusic\bg_music_1.wav</Source>
+      <Name>Audio\waves\bgmusic\bg_music_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\bgmusic\bg_music_1.xnb</Output>
+      <Time>2008-10-21T11:49:25.08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\bgmusic\bg_music_2.wav</Source>
+      <Name>Audio\waves\bgmusic\bg_music_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\bgmusic\bg_music_2.xnb</Output>
+      <Time>2008-10-21T11:50:35.658-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\bgmusic\bg_music_3.wav</Source>
+      <Name>Audio\waves\bgmusic\bg_music_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\bgmusic\bg_music_3.xnb</Output>
+      <Time>2008-11-20T19:37:14.9992768-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\bgmusic\bg_music_4.wav</Source>
+      <Name>Audio\waves\bgmusic\bg_music_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\bgmusic\bg_music_4.xnb</Output>
+      <Time>2008-11-20T19:39:55.8682768-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\bgmusic\intro_music.wav</Source>
+      <Name>Audio\waves\bgmusic\intro_music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\bgmusic\intro_music.xnb</Output>
+      <Time>2008-11-20T20:21:17.077625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_click.wav</Source>
+      <Name>Audio\waves\sfx\fx_click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_click.xnb</Output>
+      <Time>2008-11-22T21:50:58.6550737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_correct_letter.wav</Source>
+      <Name>Audio\waves\sfx\fx_correct_letter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_correct_letter.xnb</Output>
+      <Time>2008-11-22T21:41:03.9040737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_menuselect.wav</Source>
+      <Name>Audio\waves\sfx\fx_menuselect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_menuselect.xnb</Output>
+      <Time>2008-11-22T21:48:35.6770737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_newgoldenball.wav</Source>
+      <Name>Audio\waves\sfx\fx_newgoldenball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_newgoldenball.xnb</Output>
+      <Time>2008-11-22T21:42:23.1310737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_wrong_letter.wav</Source>
+      <Name>Audio\waves\sfx\fx_wrong_letter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_wrong_letter.xnb</Output>
+      <Time>2008-11-22T21:35:49.4750737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_perfectround.wav</Source>
+      <Name>Audio\waves\sfx\fx_perfectround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_perfectround.xnb</Output>
+      <Time>2008-11-22T22:33:41.3020737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_bomb_alert.wav</Source>
+      <Name>Audio\waves\sfx\fx_bomb_alert</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_bomb_alert.xnb</Output>
+      <Time>2008-11-30T13:04:47.319-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\fx_explosion.wav</Source>
+      <Name>Audio\waves\sfx\fx_explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\fx_explosion.xnb</Output>
+      <Time>2008-11-30T21:32:06.9732774-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\credits.png</Source>
+      <Name>Textures\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Textures\credits.xnb</Output>
+      <Time>2008-12-11T19:06:27.625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_dont_know_how_to_play.wav</Source>
+      <Name>Audio\waves\sfx\vfx_dont_know_how_to_play</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_dont_know_how_to_play.xnb</Output>
+      <Time>2008-12-12T22:01:11.974-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_huh.wav</Source>
+      <Name>Audio\waves\sfx\vfx_huh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_huh.xnb</Output>
+      <Time>2008-12-12T21:57:22.761-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_um_wrong.wav</Source>
+      <Name>Audio\waves\sfx\vfx_um_wrong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_um_wrong.xnb</Output>
+      <Time>2008-12-12T21:54:38.022-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_use_your_brain.wav</Source>
+      <Name>Audio\waves\sfx\vfx_use_your_brain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_use_your_brain.xnb</Output>
+      <Time>2008-12-12T21:59:15.762-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_you_are_not_very_good.wav</Source>
+      <Name>Audio\waves\sfx\vfx_you_are_not_very_good</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_you_are_not_very_good.xnb</Output>
+      <Time>2008-12-12T21:56:01.51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_you_suck.wav</Source>
+      <Name>Audio\waves\sfx\vfx_you_suck</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_you_suck.xnb</Output>
+      <Time>2008-12-12T21:51:52.266-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_all_the_answers.wav</Source>
+      <Name>Audio\waves\sfx\vfx_all_the_answers</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_all_the_answers.xnb</Output>
+      <Time>2008-12-12T22:09:35.05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_lucky_guess.wav</Source>
+      <Name>Audio\waves\sfx\vfx_lucky_guess</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_lucky_guess.xnb</Output>
+      <Time>2008-12-12T22:10:44.363-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_on_a_roll.wav</Source>
+      <Name>Audio\waves\sfx\vfx_on_a_roll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_on_a_roll.xnb</Output>
+      <Time>2008-12-12T22:05:58.571-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_so_what.wav</Source>
+      <Name>Audio\waves\sfx\vfx_so_what</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_so_what.xnb</Output>
+      <Time>2008-12-12T22:07:03.61-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_such_a_nerd.wav</Source>
+      <Name>Audio\waves\sfx\vfx_such_a_nerd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_such_a_nerd.xnb</Output>
+      <Time>2008-12-12T22:11:52.549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\waves\sfx\vfx_got_one_right.wav</Source>
+      <Name>Audio\waves\sfx\vfx_got_one_right</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\Audio\waves\sfx\vfx_got_one_right.xnb</Output>
+      <Time>2008-12-12T22:08:19.64-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kareemjg\Documents\Visual Studio 2008\Projects\GuessWurdz\GuessWurdz\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-10-30T16:45:53.595-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

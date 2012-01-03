@@ -1,0 +1,34 @@
+﻿--------------------------
+Bug Notes
+--------------------------
+1) When High Score screen displays pressing start showed the Pause Screen
+			Unresolved
+2) Instance of where High score showed when was not met.  (Was Highscore equal)
+   New Score chart wasnt uploaded.
+   
+   
+   Some notes:
+
+    * On the How to Play screen, the Return to Menu text is outside the safe area of my TV so I don't know how to Return to Menu.
+		//fixed
+    * If I play with controller #2, and I go to Purchase the Game, I can only purchase it with controller #1. This would be a peer review fail in my eyes.
+		//fixed
+    * It is hard for me to see which letter I am selecting during the game because the yellow color is not that distinct from the orange-yellow background of the letters.
+		//changed to blue
+    * The text in the thought bubble of the guy is pretty hard for me to read on my dinky SDTV.
+		// no fix.. add voice support
+    * The Continue text is outside my TV's safe area so I don't see the button you want me to hit to continue.
+		//fixed
+    * The Game Over screen is a little confusing when the Purchase Full Version text is overlaid on top of the statistics menu. Plus that screen looks like it is a different style than anywhere else in the game (the menu in particular).
+		//fixed overlay bug
+    * On the Game Over screen, I said Purchase Full Version from the menu and it took me to the next round of the game. However, after the second time I played, it did let me try to purchase the game. If I tried to purchase when I wasn't signed into a profile or if I was using a local non-LIVE enabled account, I got a Code 4 crash.
+		//fixed part where it took bacl to menu
+    * When I purchase the game, a new option to View Credits appears on the menu but it doesn't do anything when I click on it.
+		//screen not added yet
+    * It would be nice if when I held the left thumbstick down, the word cursor would go more than one square (with some reasonable delay between movement).
+		//per button click
+    * It would be nice if when I got a highscore, the text entry had my gamer profile name as the default name used for the highscore so I wouldn't need to type something in if I didn't feel the need to.
+    
+    * I have a hard drive and a memory unit. If I pull the memory unit after I select it as my storage device and then I get a highscore and then I Return to Menu, I get a Code 4 crash. The same problem happens if I consistently press B to cancel out of any storage device selection screen (and then get a highscore and then Return to Menu).
+
+Was pretty fun. Hope you have fun finishing it up.

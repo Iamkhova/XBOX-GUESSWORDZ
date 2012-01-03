@@ -1,0 +1,3 @@
+Content\Audio\gwsound.xgs
+Content\Audio\wavebank.xwb
+Content\Audio\soundbank.xsb
